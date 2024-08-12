@@ -1,0 +1,87 @@
+  Commercial Airliners
+Brands: Boeing, Airbus, Bombardier, Embraer
+Models:
+Boeing 737, 747, 777, 787
+Airbus A320, A350, A380
+Bombardier CRJ700, CRJ900
+Embraer E175, E195
+Specifications:
+Capacity: 50-850 passengers
+Range: 1,000 - 15,000 km
+Engine Type: Turbofan
+2. Military Aircraft
+Brands: Lockheed Martin, Boeing, Sukhoi, Dassault, Saab
+Models:
+Fighter Jets:
+Lockheed Martin F-22 Raptor, F-35 Lightning II
+Boeing F/A-18 Super Hornet, F-15 Eagle
+Sukhoi Su-27, Su-35, Su-57
+Dassault Rafale, Mirage 2000
+Saab JAS 39 Gripen
+Attack Aircraft:
+Fairchild Republic A-10 Thunderbolt II
+Boeing AH-64 Apache (attack helicopter)
+Bombers:
+Northrop Grumman B-2 Spirit
+Rockwell B-1 Lancer
+Tupolev Tu-160
+Transport and Support:
+Lockheed Martin C-130 Hercules, C-5 Galaxy
+Boeing KC-135 Stratotanker, E-3 Sentry (AWACS)
+Specifications:
+Speed: Up to Mach 2.2 (varies by model)
+Range: Up to 15,000 km
+Payload: Varies by role and model
+3. Presidential and VIP Aircraft
+Brands: Boeing, Airbus, Ilyushin
+Models:
+Boeing VC-25 (Air Force One)
+Boeing 747-8, 777-300ER (VIP configurations)
+Airbus A330, A340 (VIP configurations)
+ (used by Russian officials)
+Specifications:
+Capacity: Custom VIP layouts
+Range: 12,000+ km
+Special Features: Advanced communication, defense systems, luxurious interiors
+4. Cargo and Transport Planes
+Brands: Boeing, Antonov, Lockheed Martin
+Models:
+Boeing 747-8F, 767-300F
+Antonov An-124, An-225
+Lockheed Martin C-130J Super Hercules, C-5M Super Galaxy
+Specifications:
+Payload: 20,000 - 250,000 kg
+Range: 3,000 - 12,000 km
+Cargo Capacity: Varies significantly by model
+5. Private and Business Jets
+Brands: Gulfstream, Bombardier, Dassault, Cessna
+Models:
+Gulfstream G650, G700
+Bombardier Global 7500, Challenger 650
+Dassault Falcon 8X, 2000LX
+Cessna Citation Longitude, Latitude
+Specifications:
+Capacity: 4-19 passengers
+Range: 5,000 - 13,000 km
+Amenities: Luxurious interiors, advanced avionics
+6. Helicopters
+Brands: Sikorsky, Bell, Eurocopter
+Models:
+Sikorsky UH-60 Black Hawk, S-76
+Bell 412, 429
+Eurocopter (Airbus Helicopters) H125, H145
+Specifications:
+Capacity: 5-20 passengers
+Range: 500 - 1,200 km
+Special Features: Versatility in medical, transport, and military roles
+7. Unmanned Aerial Vehicles (UAVs)
+Brands: General Atomics, Northrop Grumman, Israel Aerospace Industries
+Models:
+General Atomics MQ-9 Reaper
+Northrop Grumman RQ-4 Global Hawk
+IAI Heron
+Specifications:
+Endurance: 24+ hours
+Range: 2,000+ km
+Payload: Surveillance, reconnaissance, weaponry
+This list provides a diverse selection of aircraft across different categories, catering to various customer needs, from commercial to military and private aviation. Each category includes a range of models with their respective brands and essential specifications. This structure will help in organizing your website and providing detailed information to potential buyers.
